@@ -1,2 +1,2 @@
-# ONDC-Mobile-Buyer-App
-Reference Mobile Buyer App
+# ONDC-Reference-Apps-Mobile
+Reference Mobile Apps
